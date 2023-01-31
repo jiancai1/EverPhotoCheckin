@@ -22,6 +22,8 @@
 
 **切换至Actions选项卡，开启Actions并触发每天自动执行。**
 
+## 可能遇到的问题
+
 ![Run actions](imgs/actions.png)
 
 **你也可以自行编译程序并在本地手动执行：**
